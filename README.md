@@ -1,1 +1,2 @@
-this is a read me file of this simple project..don''tt  ddoo  tthhaatt
+this is a read me file of this simple project..hellow world
+
