@@ -1,2 +1,3 @@
-this is a read me file of this simple project..hellow world
+this is library management system. use this if you want to get an idea from this
+
 
